@@ -1,6 +1,6 @@
 # POWER-BI
 
-# Power BI Dashboard for Online Sales Analysis
+# Power BI Dashboard for Online Sales Analysis (Madhav Sales)
 
 Welcome to the Power BI Dashboard repository! This project contains an interactive dashboard designed to track and analyze online sales data. Below are some highlights of the project:
 
